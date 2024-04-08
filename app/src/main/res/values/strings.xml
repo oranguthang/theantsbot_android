@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Ants Bot</string>
+    <string name="runGame">Run Game</string>
+    <string name="allow_permission">Allow permission</string>
+    <string name="accessibility_service_label">TheAntsAccessibilityService</string>
+    <string name="accessibility_service_description">Accessibility service for The Ants game</string>
+</resources>
